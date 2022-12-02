@@ -1,5 +1,5 @@
 
-Documento 1		TF		IDF		TF-IDF
+Document1		TF		IDF		TF-IDF
 aromas      	1.0000	0.3979	0.0535	
 include     	1.0000	1.0000	0.0535	
 tropical    	1.0000	1.0000	0.0535	
@@ -19,7 +19,7 @@ sage        	1.0000	1.0000	0.0535
 brisk       	1.0000	0.6990	0.0535	
 acidity     	1.0000	0.1549	0.0535	
 
-Documento 2		TF		IDF		TF-IDF
+Document2		TF		IDF		TF-IDF
 acidity     	1.0000	0.1549	0.0588	
 ripe        	1.0000	1.0000	0.0588	
 fruity      	1.0000	0.6990	0.0588	
@@ -38,7 +38,7 @@ freshened   	1.0000	1.0000	0.0588
 drinkable   	1.0000	1.0000	0.0588	
 2016        	1.0000	1.0000	0.0588	
 
-Documento 3		TF		IDF		TF-IDF
+Document3		TF		IDF		TF-IDF
 acidity     	1.0000	0.1549	0.0599	
 wine        	1.0000	0.3010	0.0599	
 tart        	1.0000	1.0000	0.0599	
@@ -56,7 +56,7 @@ underscoring	1.0000	1.0000	0.0599
 stainless-steel	1.0000	1.0000	0.0599	
 fermented   	1.0000	1.0000	0.0599	
 
-Documento 4		TF		IDF		TF-IDF
+Document4		TF		IDF		TF-IDF
 aromas      	1.0000	0.3979	0.0461	
 palate      	1.0000	0.5229	0.0461	
 a           	1.3010	0.1549	0.0600	
@@ -79,7 +79,7 @@ astringent  	1.0000	1.0000	0.0461
 semidry     	1.0000	1.0000	0.0461	
 finish      	1.0000	0.6990	0.0461	
 
-Documento 5		TF		IDF		TF-IDF
+Document5		TF		IDF		TF-IDF
 a           	1.4771	0.1549	0.0732	
 wine        	1.0000	0.3010	0.0495	
 regular     	1.0000	1.0000	0.0495	
@@ -100,7 +100,7 @@ hearty      	1.0000	1.0000	0.0495
 winter      	1.0000	1.0000	0.0495	
 stew        	1.0000	1.0000	0.0495	
 
-Documento 6		TF		IDF		TF-IDF
+Document6		TF		IDF		TF-IDF
 aromas      	1.0000	0.3979	0.0370	
 fruit       	1.0000	0.6990	0.0370	
 acidity     	1.0000	0.1549	0.0370	
@@ -129,7 +129,7 @@ plum        	1.0000	1.0000	0.0370
 fresh       	1.0000	0.3979	0.0370	
 grabby      	1.0000	1.0000	0.0370	
 
-Documento 7		TF		IDF		TF-IDF
+Document7		TF		IDF		TF-IDF
 aromas      	1.0000	0.3979	0.0526	
 herb        	1.0000	0.6990	0.0526	
 palate      	1.0000	0.5229	0.0526	
@@ -150,7 +150,7 @@ carry       	1.0000	1.0000	0.0526
 balance     	1.0000	0.5229	0.0526	
 soft        	1.0000	1.0000	0.0526	
 
-Documento 8		TF		IDF		TF-IDF
+Document8		TF		IDF		TF-IDF
 offer       	1.0000	0.6990	0.0833	
 acidity     	1.0000	0.1549	0.0833	
 a           	1.0000	0.1549	0.0833	
@@ -164,7 +164,7 @@ profusion   	1.0000	1.0000	0.0833
 texture     	1.0000	0.6990	0.0833	
 food        	1.0000	1.0000	0.0833	
 
-Documento 9		TF		IDF		TF-IDF
+Document9		TF		IDF		TF-IDF
 dried       	1.0000	0.6990	0.0588	
 brisk       	1.0000	0.6990	0.0588	
 fruity      	1.0000	0.6990	0.0588	
@@ -183,7 +183,7 @@ elegant     	1.0000	1.0000	0.0588
 sprightly   	1.0000	1.0000	0.0588	
 footprint   	1.0000	1.0000	0.0588	
 
-Documento 10		TF		IDF		TF-IDF
+Document10		TF		IDF		TF-IDF
 apple       	1.0000	0.6990	0.0625	
 acidity     	1.0000	0.1549	0.0625	
 a           	1.0000	0.1549	0.0625	

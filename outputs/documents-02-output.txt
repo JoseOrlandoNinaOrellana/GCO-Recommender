@@ -1,5 +1,5 @@
 
-Documento 1		TF		IDF		TF-IDF
+Document1		TF		IDF		TF-IDF
 a           	1.4771	0.0969	0.0826	
 dry         	1.0000	0.6990	0.0559	
 wine        	1.3010	0.5229	0.0728	
@@ -17,7 +17,7 @@ food        	1.0000	1.0000	0.0559
 crisp       	1.0000	1.0000	0.0559	
 aftertaste  	1.0000	1.0000	0.0559	
 
-Documento 2		TF		IDF		TF-IDF
+Document2		TF		IDF		TF-IDF
 a           	1.0000	0.0969	0.0556	
 wine        	1.0000	0.5229	0.0556	
 slightly    	1.0000	0.6990	0.0556	
@@ -37,7 +37,7 @@ oak         	1.0000	0.3979	0.0556
 cigar       	1.0000	0.6990	0.0556	
 box         	1.0000	0.6990	0.0556	
 
-Documento 3		TF		IDF		TF-IDF
+Document3		TF		IDF		TF-IDF
 a           	1.0000	0.0969	0.0455	
 oak         	1.0000	0.3979	0.0455	
 dominate    	1.0000	0.6990	0.0455	
@@ -61,7 +61,7 @@ give        	1.0000	1.0000	0.0455
 abrupt      	1.0000	1.0000	0.0455	
 finish      	1.0000	0.3979	0.0455	
 
-Documento 4		TF		IDF		TF-IDF
+Document4		TF		IDF		TF-IDF
 a           	1.0000	0.0969	0.0313	
 wine        	1.0000	0.5229	0.0313	
 build       	1.0000	1.0000	0.0313	
@@ -95,7 +95,7 @@ prove       	1.0000	1.0000	0.0313
 approachable	1.0000	0.6990	0.0313	
 distinctive 	1.0000	1.0000	0.0313	
 
-Documento 5		TF		IDF		TF-IDF
+Document5		TF		IDF		TF-IDF
 a           	1.0000	0.0969	0.0526	
 dry         	1.0000	0.6990	0.0526	
 palate      	1.0000	0.3010	0.0526	
@@ -116,7 +116,7 @@ quaffer     	1.0000	1.0000	0.0526
 wide        	1.0000	1.0000	0.0526	
 appeal      	1.0000	1.0000	0.0526	
 
-Documento 6		TF		IDF		TF-IDF
+Document6		TF		IDF		TF-IDF
 a           	1.4771	0.0969	0.0463	
 oak         	1.0000	0.3979	0.0314	
 aromas      	1.0000	0.2218	0.0314	
@@ -148,7 +148,7 @@ respectable 	1.0000	1.0000	0.0314
 weight      	1.0000	1.0000	0.0314	
 balance     	1.0000	1.0000	0.0314	
 
-Documento 7		TF		IDF		TF-IDF
+Document7		TF		IDF		TF-IDF
 a           	1.3010	0.0969	0.0513	
 character   	1.0000	0.6990	0.0394	
 juicy       	1.0000	0.6990	0.0394	
@@ -174,7 +174,7 @@ smoldering  	1.0000	1.0000	0.0394
 meaty       	1.0000	1.0000	0.0394	
 hot         	1.0000	1.0000	0.0394	
 
-Documento 8		TF		IDF		TF-IDF
+Document8		TF		IDF		TF-IDF
 tannic      	1.0000	0.6990	0.0352	
 dominate    	1.0000	0.6990	0.0352	
 aromas      	1.3010	0.2218	0.0458	
@@ -203,7 +203,7 @@ forceful    	1.0000	1.0000	0.0352
 oak-based   	1.0000	1.0000	0.0352	
 rise        	1.0000	1.0000	0.0352	
 
-Documento 9		TF		IDF		TF-IDF
+Document9		TF		IDF		TF-IDF
 pepper      	1.0000	0.5229	0.0329	
 slightly    	1.0000	0.6990	0.0329	
 cherry      	1.0000	0.6990	0.0329	
@@ -234,7 +234,7 @@ franc       	1.0000	1.0000	0.0329
 ready       	1.0000	1.0000	0.0329	
 enjoy       	1.0000	1.0000	0.0329	
 
-Documento 10		TF		IDF		TF-IDF
+Document10		TF		IDF		TF-IDF
 a           	1.0000	0.0969	0.0405	
 pepper      	1.0000	0.5229	0.0405	
 offer       	1.0000	0.6990	0.0405	

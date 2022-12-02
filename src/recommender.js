@@ -147,7 +147,7 @@ function showTable(table)
 {
     for(let i = 0; i < table.length; ++i)
     {
-        process.stdout.write("\n" + "Documento " + (i + 1) + "\t\tTF\t\tIDF\t\tTF-IDF\n");
+        process.stdout.write("\n" + "Document" + (i + 1) + "\t\tTF\t\tIDF\t\tTF-IDF\n");
         for(let j = 0; j < table[i].length; ++j)
         {
             if(table[i][j][1] > 0)

@@ -1,5 +1,5 @@
 
-Documento 1		TF		IDF		TF-IDF
+Document1		TF		IDF		TF-IDF
 red         	1.0000	0.8239	0.0833	
 cherry      	1.0000	1.3010	0.0833	
 fruit       	1.0000	0.3010	0.0833	
@@ -13,7 +13,7 @@ open        	1.0000	0.8239	0.0833
 juicy       	1.0000	0.8239	0.0833	
 character   	1.0000	1.0000	0.0833	
 
-Documento 2		TF		IDF		TF-IDF
+Document2		TF		IDF		TF-IDF
 red         	1.0000	0.8239	0.0526	
 fruit       	1.0000	0.3010	0.0526	
 bright      	1.0000	0.8239	0.0526	
@@ -34,7 +34,7 @@ quality     	1.0000	1.0000	0.0526
 clean       	1.0000	0.8239	0.0526	
 sharp       	1.0000	1.3010	0.0526	
 
-Documento 3		TF		IDF		TF-IDF
+Document3		TF		IDF		TF-IDF
 part        	1.0000	1.0000	0.0483	
 extend      	1.0000	1.3010	0.0483	
 calanìca    	1.0000	1.3010	0.0483	
@@ -56,7 +56,7 @@ ripe        	1.0000	0.6990	0.0483
 yellow-fruit	1.0000	1.3010	0.0483	
 flavors     	1.0000	0.3979	0.0483	
 
-Documento 4		TF		IDF		TF-IDF
+Document4		TF		IDF		TF-IDF
 flavors     	1.0000	0.3979	0.0935	
 rustic      	1.0000	1.3010	0.0935	
 dry         	1.0000	1.0000	0.0935	
@@ -68,7 +68,7 @@ cabernet    	1.3010	1.0000	0.1217
 franc       	1.0000	1.3010	0.0935	
 sauvignon   	1.0000	0.6990	0.0935	
 
-Documento 5		TF		IDF		TF-IDF
+Document5		TF		IDF		TF-IDF
 fruit       	1.0000	0.3010	0.0441	
 show        	1.0000	0.8239	0.0441	
 sauvignon   	1.0000	0.6990	0.0441	
@@ -92,7 +92,7 @@ commendable 	1.0000	1.3010	0.0441
 dryness     	1.0000	1.3010	0.0441	
 acidity     	1.0000	0.8239	0.0441	
 
-Documento 6		TF		IDF		TF-IDF
+Document6		TF		IDF		TF-IDF
 fruit       	1.0000	0.3010	0.0455	
 touch       	1.0000	0.6990	0.0455	
 a           	1.0000	0.1549	0.0455	
@@ -116,7 +116,7 @@ ripeness    	1.0000	1.3010	0.0455
 sweet       	1.0000	0.6990	0.0455	
 tomatoes    	1.0000	1.3010	0.0455	
 
-Documento 7		TF		IDF		TF-IDF
+Document7		TF		IDF		TF-IDF
 blend       	1.0000	0.8239	0.0286	
 aromas      	1.0000	0.6021	0.0286	
 grass       	1.0000	1.0000	0.0286	
@@ -153,7 +153,7 @@ short       	1.0000	1.3010	0.0286
 chardonnay  	1.0000	1.3010	0.0286	
 fill        	1.0000	1.3010	0.0286	
 
-Documento 8		TF		IDF		TF-IDF
+Document8		TF		IDF		TF-IDF
 fruit       	1.0000	0.3010	0.0500	
 give        	1.0000	0.8239	0.0500	
 wine        	1.0000	0.2596	0.0500	
@@ -175,7 +175,7 @@ bold        	1.0000	1.3010	0.0500
 chewy       	1.0000	1.3010	0.0500	
 feel        	1.0000	1.3010	0.0500	
 
-Documento 9		TF		IDF		TF-IDF
+Document9		TF		IDF		TF-IDF
 fruit       	1.0000	0.3010	0.0714	
 wine        	1.0000	0.2596	0.0714	
 aromas      	1.0000	0.6021	0.0714	
@@ -191,7 +191,7 @@ cake        	1.0000	1.3010	0.0714
 soft        	1.0000	0.8239	0.0714	
 smooth      	1.0000	1.3010	0.0714	
 
-Documento 10		TF		IDF		TF-IDF
+Document10		TF		IDF		TF-IDF
 fruit       	1.0000	0.3010	0.0428	
 bright      	1.0000	0.8239	0.0428	
 wine        	1.3010	0.2596	0.0556	
@@ -215,7 +215,7 @@ paper       	1.0000	1.3010	0.0428
 nice        	1.0000	1.3010	0.0428	
 berry       	1.0000	0.6990	0.0428	
 
-Documento 11		TF		IDF		TF-IDF
+Document11		TF		IDF		TF-IDF
 show        	1.0000	0.8239	0.0588	
 back        	1.0000	1.0000	0.0588	
 touch       	1.0000	0.6990	0.0588	
@@ -234,7 +234,7 @@ citrus      	1.0000	0.8239	0.0588
 almond      	1.0000	1.3010	0.0588	
 blossom     	1.0000	1.3010	0.0588	
 
-Documento 12		TF		IDF		TF-IDF
+Document12		TF		IDF		TF-IDF
 tannins     	1.0000	0.6990	0.0565	
 wine        	1.0000	0.2596	0.0565	
 open        	1.0000	0.8239	0.0565	
@@ -253,7 +253,7 @@ play        	1.0000	1.3010	0.0565
 earthy      	1.0000	1.3010	0.0565	
 herbs       	1.0000	1.3010	0.0565	
 
-Documento 13		TF		IDF		TF-IDF
+Document13		TF		IDF		TF-IDF
 red         	1.0000	0.8239	0.0935	
 fruit       	1.0000	0.3010	0.0935	
 wine        	1.0000	0.2596	0.0935	
@@ -265,7 +265,7 @@ soft        	1.0000	0.8239	0.0935
 berry       	1.0000	0.6990	0.0935	
 festive     	1.0000	1.3010	0.0935	
 
-Documento 14		TF		IDF		TF-IDF
+Document14		TF		IDF		TF-IDF
 fruit       	1.0000	0.3010	0.0349	
 pair        	1.0000	0.6990	0.0349	
 clean       	1.0000	0.8239	0.0349	
@@ -295,7 +295,7 @@ salad       	1.0000	1.3010	0.0349
 grapefruit  	1.0000	1.0000	0.0349	
 sections    	1.0000	1.3010	0.0349	
 
-Documento 15		TF		IDF		TF-IDF
+Document15		TF		IDF		TF-IDF
 flavors     	1.0000	0.3979	0.0637	
 a           	1.3010	0.1549	0.0829	
 note        	1.0000	0.4559	0.0637	
@@ -312,7 +312,7 @@ raspberry   	1.0000	1.3010	0.0637
 plum        	1.0000	1.3010	0.0637	
 modest      	1.0000	1.3010	0.0637	
 
-Documento 16		TF		IDF		TF-IDF
+Document16		TF		IDF		TF-IDF
 tannins     	1.0000	0.6990	0.0385	
 wine        	1.0000	0.2596	0.0385	
 blend       	1.0000	0.8239	0.0385	
@@ -340,7 +340,7 @@ verdot      	1.0000	1.3010	0.0385
 15%         	1.0000	1.3010	0.0385	
 pinotage    	1.0000	1.3010	0.0385	
 
-Documento 17		TF		IDF		TF-IDF
+Document17		TF		IDF		TF-IDF
 pair        	1.0000	0.6990	0.0588	
 clean       	1.0000	0.8239	0.0588	
 a           	1.0000	0.1549	0.0588	
@@ -359,7 +359,7 @@ pretty      	1.0000	1.3010	0.0588
 tones       	1.0000	1.3010	0.0588	
 nuance      	1.0000	1.3010	0.0588	
 
-Documento 18		TF		IDF		TF-IDF
+Document18		TF		IDF		TF-IDF
 wine        	1.0000	0.2596	0.0833	
 flavors     	1.0000	0.3979	0.0833	
 a           	1.0000	0.1549	0.0833	
@@ -373,7 +373,7 @@ sugar       	1.0000	1.3010	0.0833
 brightened  	1.0000	1.3010	0.0833	
 crisp       	1.0000	1.3010	0.0833	
 
-Documento 19		TF		IDF		TF-IDF
+Document19		TF		IDF		TF-IDF
 fruit       	1.0000	0.3010	0.0297	
 wine        	1.0000	0.2596	0.0297	
 pair        	1.0000	0.6990	0.0297	
@@ -408,7 +408,7 @@ apricot-glazed	1.0000	1.3010	0.0297
 roasted     	1.0000	1.3010	0.0297	
 chicken     	1.0000	1.3010	0.0297	
 
-Documento 20		TF		IDF		TF-IDF
+Document20		TF		IDF		TF-IDF
 tannins     	1.0000	0.6990	0.0516	
 give        	1.0000	0.8239	0.0516	
 wine        	1.3010	0.2596	0.0671	
