@@ -15,8 +15,8 @@ function loadDocuments(path)
     // Eliminar signos de puntuación, dobles espacios, números
     for(let i = 0; i < lines.length; ++i)
     {
-        lines[i] = lines[i].replaceAll(".", "")
-        lines[i] = lines[i].replaceAll(",", "")
+        lines[i] = lines[i].replaceAll(".", "");
+        lines[i] = lines[i].replaceAll(",", "");
         //lines[i] = lines[i].replaceAll(/[0-9]/g, "");
         lines[i] = lines[i].replaceAll(/ +(?= )/g, "");
     }
@@ -121,7 +121,7 @@ function createTable(documents, words)
     // Calcular IDF
     for(let i = 0; i < table.length; ++i)
         for(let j = 0; j < table[i].length; ++j)
-            table[i][j][2] = Math.log(documents.length / numTimesWordAppears(documents, table[i][j][0]))
+            table[i][j][2] = Math.log10(documents.length / numTimesWordAppears(documents, table[i][j][0]))
 
     // Calcular TF-IDF
     let lengthVector = [];
@@ -143,26 +143,29 @@ function createTable(documents, words)
     return table;
 }
 
-function showTable(table)
+function showTable(table, documents)
 {
     for(let i = 0; i < table.length; ++i)
     {
         process.stdout.write("\n" + "Documento " + (i + 1) + "\t\tTF\t\tIDF\t\tTF-IDF\n");
         for(let j = 0; j < table[i].length; ++j)
         {
-            for(let k = 0; k < table[i][j].length; ++k)
+            if(table[i][j][1] > 0)
             {
-                if(typeof table[i][j][k] === "number")
-                    process.stdout.write(table[i][j][k].toFixed(4) + "\t");
-                else if(typeof table[i][j][k] === "string")
-                    if(table[i][j][k].length < 12)
-                        process.stdout.write(table[i][j][k] + " ".repeat(12 - table[i][j][k].length) + "\t");
+                for(let k = 0; k < table[i][j].length; ++k)
+                {
+                    if(typeof table[i][j][k] === "number")
+                        process.stdout.write(table[i][j][k].toFixed(4) + "\t");
+                    else if(typeof table[i][j][k] === "string")
+                        if(table[i][j][k].length < 12)
+                            process.stdout.write(table[i][j][k] + " ".repeat(12 - table[i][j][k].length) + "\t");
+                        else
+                            process.stdout.write(table[i][j][k] + "\t");
                     else
                         process.stdout.write(table[i][j][k] + "\t");
-                else
-                    process.stdout.write(table[i][j][k] + "\t");
+                }
+                process.stdout.write("\n");
             }
-            process.stdout.write("\n");
         }
     }
 }
@@ -219,7 +222,7 @@ function main()
 
     // Creamos la tabla
     let table = createTable(documents, allWords);
-    showTable(table);
+    showTable(table, documents);
 
     // Creamos la matriz de similitud
     let sim = calculateSim(table);
