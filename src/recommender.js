@@ -143,7 +143,7 @@ function createTable(documents, words)
     return table;
 }
 
-function showTable(table, documents)
+function showTable(table)
 {
     for(let i = 0; i < table.length; ++i)
     {
