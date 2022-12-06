@@ -1,3 +1,10 @@
+# Sistemas de recomendación. Modelos basados en el contenido
+
+## Autores
+* Sandro Jesús Socas Méndez  | alu0101208770@ull.edu.es
+* José Orlando Nina Orellana | alu0101322308@ull.edu.es
+* Álvaro Rodríguez Gómez     | alu0101362953@ull.edu.es
+
 ## Ejemplo de uso
 
 ```Bash
